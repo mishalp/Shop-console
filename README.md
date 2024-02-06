@@ -1,6 +1,10 @@
 ### Getting Started
 
-## 1.Clone this repository
+## Prerequisite
+
+Node
+
+## 1. Clone this repository
 
 ```bash
 git clone https://github.com/mishalp/Shop-console.git
@@ -13,7 +17,7 @@ cd Shop-console
 npm install
 ```
 
-## 3.Run the program
+## 3. Run the program
 
 ```bash
 node shope.js
